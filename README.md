@@ -1,5 +1,5 @@
 # BMS-UAF-Liveries
-A Ukrainian Air Force Livery pack for the F16 as modeled in Falcon 4.0 BMS (WIP)
+A Ukrainian Air Force Livery pack for the F16 as modeled in Falcon 4.0 BMS
 
 ![F16CM-50 Ref Mig29#30](https://user-images.githubusercontent.com/25518488/209579813-5231b389-bdad-452f-84b2-8f0bb68bd0a3.JPG)
 
