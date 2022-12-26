@@ -7,3 +7,5 @@ If you don't want to overwrite already existing vanilla textures, you can put it
 Based on the textures template posted by Benchmark Sims dema here - https://forum.falcon-bms.com/topic/23693/4-36-f16-textures-templates
 
 Camo generated in http://www.happyponyland.net/camogen.php
+
+Historical references - http://spotters.net.ua/directory/
